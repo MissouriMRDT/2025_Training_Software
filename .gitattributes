@@ -15,6 +15,10 @@
 *.sh    text eol=lf
 *.bat   text eol=crlf
 
+# VSCode shenanigans
+.vscode/extensions.json text eol=lf
+.vscode/settings.json   text eol=lf
+
 *.png   binary
 *.jpg   binary
 *.jpeg  binary

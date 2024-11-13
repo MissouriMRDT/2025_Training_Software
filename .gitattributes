@@ -1,0 +1,20 @@
+# use CRLF on windows
+*       text=auto
+
+*.c     text
+*.cpp   text
+*.h     text
+*.hpp   text
+
+*.ino   text
+*.ini   text
+
+*.sh    text
+*.py    text
+
+*.bat   text eol=crlf
+
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.pdf   binary

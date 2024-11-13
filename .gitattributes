@@ -9,9 +9,10 @@
 *.ino   text
 *.ini   text
 
-*.sh    text
+*.json  text
 *.py    text
 
+*.sh    text eol=lf
 *.bat   text eol=crlf
 
 *.png   binary
